@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "title": "Website Development",
+    "description": "Our web application development department is equipped with the  state-of-the-art equipment and a highly-trained team of development that generates outstanding ideas for our client’s  project. They work closely with you to generate optimal outcomes  for your application/ software concerns. We complete your project within the given deadline.",
+    "image": "../../../../images/service/website-design-and-development-01.png",
+    "linkLight": "/light/page-service1",
+    "linkDark": "/dark/page-service1"
+  },
+  {
+    "id": 2,
+    "title": "Web Application",
+    "description": "Our web application development department is equipped with the  state-of-the-art equipment and a highly-trained team of development that generates outstanding ideas for our client’s  project. They work closely with you to generate optimal outcomes  for your application/ software concerns. We complete your project within the given deadline.",
+    "image": "../../../../images/service/digital-signage.png",
+    "linkLight": "/light/page-service2",
+    "linkDark": "/dark/page-service2"
+  },
+  {
+    "id": 3,
+    "title": "Mobile Apps Development",
+    "description": "We specialize in design and development for mobile apps and websites. We design websites and mobile apps that are further facilitated with a high-performance rate. Our team of developers and designers at Createabit Design are acquainted with the creation and development of iOS and Android apps that are user-specific and mobile-friendly-specific.",
+    "image": "../../../../images/service/Feature-of-app-development-01.png",
+    "linkLight": "/light/page-service3",
+    "linkDark": "/dark/page-service3"
+  },
+  {
+    "id": 4,
+    "title": "Digital Marketing & SEO",
+    "description": " Createabit Design focuses on utilizes the approach that focuses on users to generate solutions for digital marketing and SEO areas. We use business-oriented design solutions to cater to the digital marketing and SEO concerns of our clients.",
+    "image": "../../../../images/service/Digital-Marketing-_-Seo-01.png",
+    "linkLight": "/light/page-service5",
+    "linkDark": "/dark/page-service5"
+  },
+  {
+    "id": 5,
+    "title": "Graphics Design & Printing",
+    "description": "Our team at Createabit Design is responsible for creating compelling graphic designs and prints to add an appeal to your business to maintain its sustainability. We invest our complete creativity, resources, and efforts to come up with 100% satisfactory.",
+    "image": "../../../../images/service/Graphic.png",
+    "linkLight": "/light/page-service5",
+    "linkDark": "/dark/page-service5"
+  },
+  {
+    "id": 6,
+    "title": "Video & Animation",
+    "description": "At Createabit Design, our team of designers and animators are responsible for the conversion of abstract ideas to animations and motion graphics. Our creative and innovative animated videos are highly regarded for their quality and sound.",
+    "image": "../../../../images/service/Video-Aanimation-01.png",
+    "linkLight": "/light/page-service6",
+    "linkDark": "/dark/page-service6"
+  }
+]

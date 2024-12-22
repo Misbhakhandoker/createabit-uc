@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "number": "01",
+    "type": "DESIGN",
+    "title": "Restaurant Power",
+    "image": "/dark/assets/imgs/works/full/1.jpg",
+    "link": "restaurant-power"
+  },
+  {
+    "id": 2,
+    "number": "02",
+    "type": "BRANDING",
+    "title": "Grocery Power",
+    "image": "/dark/assets/imgs/works/full/2.jpg",
+    "link": "grocery-power"
+  },
+  {
+    "id": 3,
+    "number": "03",
+    "type": "DESIGN",
+    "title": "Retail & Mall",
+    "image": "/dark/assets/imgs/works/full/3.jpg",
+    "link": "retail-mail"
+  },
+  {
+    "id": 4,
+    "number": "04",
+    "type": "BRANDING",
+    "title": "Educations",
+    "image": "/dark/assets/imgs/works/full/4.jpg",
+    "link": "educations"
+  },
+  {
+    "id": 5,
+    "number": "05",
+    "type": "PHOTOGRAPHY",
+    "title": "Real Estate & Corporation Office",
+    "image": "/dark/assets/imgs/works/full/5.jpg",
+    "link": "real-estate-corporation-office"
+  },
+  {
+    "id": 6,
+    "number": "06",
+    "type": "DESIGN",
+    "title": "Religious Venues",
+    "image": "/dark/assets/imgs/works/full/6.jpg",
+    "link": "religious-venues"
+  },
+  {
+    "id": 7,
+    "number": "07",
+    "type": "ART DESIGN",
+    "title": "Healthcare",
+    "image": "/dark/assets/imgs/works/full/6.jpg",
+    "link": "healthcare"
+  },
+  {
+    "id": 8,
+    "number": "08",
+    "type": "DESIGN",
+    "title": "Movie Theaters & Stadium ",
+    "image": "/dark/assets/imgs/works/full/6.jpg",
+    "link": "movie-theaters-stadium"
+  },
+  {
+    "id": 9,
+    "number": "09",
+    "type": "APPS",
+    "title": "Government",
+    "image": "/dark/assets/imgs/works/full/6.jpg",
+    "link": "government"
+  }
+]

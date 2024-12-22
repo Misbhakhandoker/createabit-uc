@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "background": "/dark/assets/imgs/works/full/1.jpg",
+    "year": "2023",
+    "type": "Branding",
+    "title": "Display Lab",
+    "link": "display-lab"
+  },
+  {
+    "id": 2,
+    "background": "/dark/assets/imgs/works/full/2.jpg",
+    "year": "2023",
+    "type": "Branding",
+    "title": "Event Chief",
+    "link": "event-chief"
+  },
+  {
+    "id": 3,
+    "background": "/dark/assets/imgs/works/full/3.jpg",
+    "year": "2023",
+    "type": "Branding",
+    "title": "Auto Shop Manager",
+    "link": "auto-shop-manager"
+  },
+  {
+    "id": 4,
+    "background": "/dark/assets/imgs/works/full/4.jpg",
+    "year": "2023",
+    "type": "Branding",
+    "title": "SOS",
+    "link": "SOS"
+  },
+  {
+    "id": 5,
+    "background": "/dark/assets/imgs/works/full/5.jpg",
+    "year": "2023",
+    "type": "Branding",
+    "title": "ERP",
+    "link": "erp"
+  },
+  {
+    "id": 6,
+    "background": "/dark/assets/imgs/works/full/1.jpg",
+    "year": "2023",
+    "type": "Branding",
+    "title": "Easy Grocery",
+    "link": "easy-grocery"
+  }
+]
