@@ -282,32 +282,50 @@ function DarkNavbar({ lightMode, alwaysDark, darkOnScroll }) {
                   <div className="sub-menu">
                     <ul>
                       <li>
-                        <Link href="/dark/page-service1/" className="sub-link">
+                        <Link
+                          href="/dark/web-development/"
+                          className="sub-link"
+                        >
                           Website Development
                         </Link>
                       </li>
                       <li>
-                        <Link href="/dark/page-service2/" className="sub-link">
+                        <Link
+                          href="/dark/web-application/"
+                          className="sub-link"
+                        >
                           Web Application
                         </Link>
                       </li>
                       <li>
-                        <Link href="/dark/page-service3/" className="sub-link">
+                        <Link
+                          href="/dark/mobile-apps-development/"
+                          className="sub-link"
+                        >
                           Mobile Apps Development
                         </Link>
                       </li>
                       <li>
-                        <Link href="/dark/page-service4/" className="sub-link">
+                        <Link
+                          href="/dark/digital-marketing-seo/"
+                          className="sub-link"
+                        >
                           Digital Marketing & SEO
                         </Link>
                       </li>
                       <li>
-                        <Link href="/dark/page-service5/" className="sub-link">
+                        <Link
+                          href="/dark/graphics-design-&-printing/"
+                          className="sub-link"
+                        >
                           Graphics Design & Printing
                         </Link>
                       </li>
                       <li>
-                        <Link href="/dark/page-service6/" className="sub-link">
+                        <Link
+                          href="/dark/video-animation/"
+                          className="sub-link"
+                        >
                           Video & Animation
                         </Link>
                       </li>
@@ -397,7 +415,7 @@ function DarkNavbar({ lightMode, alwaysDark, darkOnScroll }) {
                   </li>
                 )} */}
 
-                <li
+                {/* <li
                   onMouseEnter={handleMouseEnter}
                   onMouseLeave={handleMouseLeave}
                 >
@@ -411,7 +429,7 @@ function DarkNavbar({ lightMode, alwaysDark, darkOnScroll }) {
                       </span>
                     </Link>
                   </div>
-                </li>
+                </li> */}
               </ul>
             </div>
           </div>
