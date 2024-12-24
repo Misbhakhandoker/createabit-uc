@@ -1,7 +1,7 @@
 import Link from "next/link";
 //= Data
 // import data from "@/data/Showcases/software.json"; 
-import data from "@/data/Showcases/interactive-center-horizontal.json";
+import data from "@/data/Showcases/home-software.json";
 
 const   HomeSoftware = () => {
   function handleMouseEnter(event) {

@@ -2,38 +2,42 @@ import { useEffect } from "react";
 //= Packages
 import Head from "next/head";
 //= Layout
-import Layout from "@/layouts/showcases";
-//= Scripts
-import customScript from "@/common/marketing-agency-customjs";
-import showcaseScript from "@/common/showcase-script";
+import Layout from "@/layouts/default";
 //= Components
 import Loader from "@/components/Common/Loader";
-import FrameSlider from "@/components/Showcases/FrameSlider";
 import Menu from "@/components/Showcases/Menu";
+import Navigation from "@/components/Showcases/Navigation";
+import VerticalParallax from "@/components/Showcases/VerticalParallax";
+import Block from "@/components/Showcases/VerticalParallax/Block";
+import Numbers from "@/components/Showcases/VerticalParallax/Numbers";
+import DarkFooter from "../dark-footer";
 import DarkNavbar from "../dark-navbar";
 
-function ShowcaseFrameSlider() {
+function ShowcaseVerticalParallax() {
   useEffect(() => {
-    customScript();
-    showcaseScript.demo();
+    document.body.classList.add("main-bg");
+    return () => document.body.classList.remove("main-bg");
   }, []);
 
   return (
     <>
       <Head>
-        <title>Createabit - Frame Slider</title>
+        <title>Createabit - Vertical Parallax</title>
       </Head>
 
       <Loader />
+      {/* <Navigation /> */}
       <DarkNavbar />
-      <Menu />
-      <main>
-        <FrameSlider />
+      <main className="main-bg">
+        <VerticalParallax />
+        <Numbers paddingTop />
+        <Block />
       </main>
+      <DarkFooter />
     </>
   );
 }
 
-ShowcaseFrameSlider.getLayout = (page) => <Layout>{page}</Layout>;
+ShowcaseVerticalParallax.getLayout = (page) => <Layout>{page}</Layout>;
 
-export default ShowcaseFrameSlider;
+export default ShowcaseVerticalParallax;
