@@ -5,7 +5,7 @@
     "type": "DESIGN",
     "title": "Display Lab",
     "image": "/dark/assets/imgs/works/full/1.jpg",
-    "link": "restaurant-power"
+    "link": "display-lab"
   },
   {
     "id": 2,
@@ -13,7 +13,7 @@
     "type": "BRANDING",
     "title": "Event Chief",
     "image": "/dark/assets/imgs/works/full/2.jpg",
-    "link": "grocery-power"
+    "link": "event-chief"
   },
   {
     "id": 3,
@@ -21,7 +21,7 @@
     "type": "DESIGN",
     "title": "Auto Shop Manager",
     "image": "/dark/assets/imgs/works/full/3.jpg",
-    "link": "retail-mail"
+    "link": "auto-shop-manager"
   },
   {
     "id": 4,
@@ -29,7 +29,7 @@
     "type": "BRANDING",
     "title": "SOS",
     "image": "/dark/assets/imgs/works/full/4.jpg",
-    "link": "educations"
+    "link": "sos"
   },
   {
     "id": 5,
@@ -37,7 +37,7 @@
     "type": "PHOTOGRAPHY",
     "title": "Easy Grocery",
     "image": "/dark/assets/imgs/works/full/5.jpg",
-    "link": "real-estate-corporation-office"
+    "link": "easy-grocery"
   },
   {
     "id": 6,
@@ -45,6 +45,6 @@
     "type": "DESIGN",
     "title": "ERP",
     "image": "/dark/assets/imgs/works/full/6.jpg",
-    "link": "religious-venues"
+    "link": "erp"
   }
 ]

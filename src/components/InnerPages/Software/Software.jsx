@@ -61,7 +61,7 @@ function Software() {
                   >
                     <h2>
                       <span className="num">{item.number}.</span>
-                      <Link href={`/dark/${item.ling}`}>
+                      <Link href={`/dark/${item.link}`}>
                         <span className="tag sub-title">{item.type}</span>{" "}
                         <span className="text">{item.title}</span>
                       </Link>

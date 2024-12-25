@@ -4,6 +4,8 @@ import Link from "next/link";
 import data from "@/data/Showcases/home-software.json";
 
 const   HomeSoftware = () => {
+  console.log(data, "software data");
+  
   function handleMouseEnter(event) {
     var tab_id = event.currentTarget.getAttribute("data-tab");
 
