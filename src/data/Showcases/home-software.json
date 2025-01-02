@@ -18,7 +18,7 @@
   {
     "id": 3,
     "number": "03",
-    "type": "DESIGN",
+    "type": "BRANDING",
     "title": "Auto Shop Manager",
     "image": "/dark/assets/imgs/works/full/3.jpg",
     "link": "auto-shop-manager"
@@ -26,7 +26,7 @@
   {
     "id": 4,
     "number": "04",
-    "type": "BRANDING",
+    "type": "PHOTOGRAPHY",
     "title": "SOS",
     "image": "/dark/assets/imgs/works/full/4.jpg",
     "link": "sos"
@@ -42,7 +42,7 @@
   {
     "id": 6,
     "number": "06",
-    "type": "DESIGN",
+    "type": "PHOTOGRAPHY",
     "title": "ERP",
     "image": "/dark/assets/imgs/works/full/6.jpg",
     "link": "erp"

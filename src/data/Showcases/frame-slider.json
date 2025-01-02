@@ -3,7 +3,7 @@
     "id": 1,
     "background": "/dark/assets/imgs/works/full/1.jpg",
     "year": "2023",
-    "type": "Branding",
+    "type": "DESIGN",
     "title": "Display Lab",
     "link": "display-lab"
   },
@@ -11,7 +11,7 @@
     "id": 2,
     "background": "/dark/assets/imgs/works/full/2.jpg",
     "year": "2023",
-    "type": "Branding",
+    "type": "BRANDING",
     "title": "Event Chief",
     "link": "event-chief"
   },
@@ -19,7 +19,7 @@
     "id": 3,
     "background": "/dark/assets/imgs/works/full/3.jpg",
     "year": "2023",
-    "type": "Branding",
+    "type": "BRANDING",
     "title": "Auto Shop Manager",
     "link": "auto-shop-manager"
   },
@@ -27,7 +27,7 @@
     "id": 4,
     "background": "/dark/assets/imgs/works/full/4.jpg",
     "year": "2023",
-    "type": "Branding",
+    "type": "PHOTOGRAPHY",
     "title": "SOS",
     "link": "sos"
   },
@@ -35,15 +35,15 @@
     "id": 5,
     "background": "/dark/assets/imgs/works/full/5.jpg",
     "year": "2023",
-    "type": "Branding",
+    "type": "PHOTOGRAPHY",
     "title": "ERP",
     "link": "erp"
   },
   {
     "id": 6,
-    "background": "/dark/assets/imgs/works/full/1.jpg",
+    "background": "/dark/assets/imgs/works/full/6.jpg",
     "year": "2023",
-    "type": "Branding",
+    "type": "PHOTOGRAPHY",
     "title": "Easy Grocery",
     "link": "easy-grocery"
   }
