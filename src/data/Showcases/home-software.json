@@ -2,7 +2,7 @@
   {
     "id": 1,
     "number": "01",
-    "type": "DESIGN",
+    "type": "DESIGN CMS",
     "title": "Display Lab",
     "image": "/dark/assets/imgs/works/full/1.jpg",
     "link": "display-lab"
@@ -10,7 +10,7 @@
   {
     "id": 2,
     "number": "02",
-    "type": "BRANDING",
+    "type": "Ticket Management",
     "title": "Event Chief",
     "image": "/dark/assets/imgs/works/full/2.jpg",
     "link": "event-chief"
@@ -18,7 +18,7 @@
   {
     "id": 3,
     "number": "03",
-    "type": "BRANDING",
+    "type": "Shop management",
     "title": "Auto Shop Manager",
     "image": "/dark/assets/imgs/works/full/3.jpg",
     "link": "auto-shop-manager"
@@ -26,7 +26,7 @@
   {
     "id": 4,
     "number": "04",
-    "type": "PHOTOGRAPHY",
+    "type": "Ordering System",
     "title": "SOS",
     "image": "/dark/assets/imgs/works/full/4.jpg",
     "link": "sos"
@@ -34,7 +34,7 @@
   {
     "id": 5,
     "number": "05",
-    "type": "PHOTOGRAPHY",
+    "type": "Delivery Service",
     "title": "Easy Grocery",
     "image": "/dark/assets/imgs/works/full/5.jpg",
     "link": "easy-grocery"
@@ -42,7 +42,7 @@
   {
     "id": 6,
     "number": "06",
-    "type": "PHOTOGRAPHY",
+    "type": "Business CRM",
     "title": "ERP",
     "image": "/dark/assets/imgs/works/full/6.jpg",
     "link": "erp"
